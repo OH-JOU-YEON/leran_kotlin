@@ -207,13 +207,7 @@ kotlin-academy-study/
 │   │       ├── chapter19/          # 연산자 오버로딩
 │   │       ├── chapter20/          # 코틀린 타입 시스템의 묘미
 │   │       └── chapter21/          # 제네릭
-│   └── test/
-│       └── kotlin/
-│           ├── chapter02/
-│           ├── chapter04/
-│           ├── chapter05/
-│           └── ...
-├── build.gradle.kts
+│
 └── README.md
 ```
 
